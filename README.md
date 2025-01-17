@@ -63,7 +63,7 @@ Here are some visuals of the project in action:
 ![Screenshot](ss.PNG)
 
 ### 🎥 Video Demo
-[Watch the video](https://www.youtube.com/watch?v=9Bnf4ot9kQA)
+[Watch the video](https://www.youtube.com/watch?v=cX7P1B2YyUo)
 
 ---
 
