@@ -53,3 +53,20 @@ Movie recommendation is a key feature for many entertainment platforms, enabling
    - The system calculates cosine similarity between the selected movie and all other movies in the dataset.
 3. **Output**:
    - The top 5 most similar movies are displayed along with their posters.
+  
+---
+
+## 🌟 Demo and Screenshots
+Here are some visuals of the project in action:
+
+### 🎥 Video Demo
+[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+*Click the image above to watch the demo video on YouTube.*
+
+### 📸 Screenshots
+1. **Home Page**:
+   ![Home Page](path/to/homepage-screenshot.png)
+
+---
+
+
