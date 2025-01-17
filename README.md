@@ -60,12 +60,10 @@ Movie recommendation is a key feature for many entertainment platforms, enabling
 Here are some visuals of the project in action:
 
 ### 🎥 Video Demo
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
-*Click the image above to watch the demo video on YouTube.*
+[Watch the demo video](demo.MP4)
 
-### 📸 Screenshots
-1. **Home Page**:
-   ![Home Page](path/to/homepage-screenshot.png)
+### 📸 Screenshot
+![Screenshot](ss.PNG)
 
 ---
 
